@@ -1,0 +1,59 @@
+& Company
+.com
+AB
+GmbH
+analytics
+b. v
+b.v
+bv
+co. ltd.
+co., Ltd.
+co., ltd.
+co.ltd
+commerce
+communications
+company
+consulting
+corp
+corporation
+digital
+enterprise
+enterprises
+foundation
+global
+group
+holding
+inc
+incorporated
+information
+intelligence
+interactive
+international
+limited
+llc
+ltd
+marketing
+media
+networks
+plc
+private limited
+pte ltd
+pte. ltd
+pte.ltd
+pty. ltd
+pty.ltd
+pvt. ltd.
+pvt.ltd
+s. a
+s. r. o
+s.a
+s.r.o
+sapty
+services
+software
+software Solutions
+software foundation
+solutions
+systems
+technologies
+technology
